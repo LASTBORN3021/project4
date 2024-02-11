@@ -1,0 +1,33 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #0d37c1eb;
+    padding: 10 10px 10px 5px;
+    
+}
+.container {
+    background-color: rgb(218, 136, 35); /* Yellow color inside the frame */
+    padding: 20px; /* Padding to create space inside the frame */
+    margin: 20px; /* Margin to create space outside the frame */
+    border: 5px solid black;
+
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.container  img  {
+    
+    margin-left: 25%;
+}
+.container h1{
+    text-align: center;
+    font-size:50px ;
+    font-weight:bold ;
+    text-shadow: 0 0 30px;
+    color: blue;
+    font-style: italic;
+}
