@@ -1,14 +1,14 @@
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: #0d37c1eb;
+    background-color: #5cf7e2eb;
     padding: 10px 10px 10px 5px;
 }
 
 .container {
-    background-color: rgb(218, 136, 35); /* Yellow color inside the frame */
-    padding: 20px; /* Padding to create space inside the frame */
-    margin: 20px; /* Margin to create space outside the frame */
+    background-color: rgb(109, 1, 250); 
+    padding: 20px;
+    margin: 20px; 
     border: 5px solid black;
 }
 
@@ -19,15 +19,15 @@ p {
 
 .container img {
     display: block;
-    margin: 0 auto; /* Center the image horizontally */
+    margin: 0 auto; 
 }
 
 .container h1 {
     text-align: center;
     font-size: 50px;
     font-weight: bold;
-    text-shadow: 0 0 10px #0000FF; /* Blue text shadow */
-    color: #FFFFFF; /* White text color */
+    text-shadow: 0 0 10px #0000FF;
+    color: #FFFFFF;
     font-style: italic;
 }
 p {
